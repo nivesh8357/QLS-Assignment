@@ -3,11 +3,7 @@
 I have created automation testing script for - 
 
 
-# E-Commerce website
-
-An e-commerce website is an online store that allows businesses to sell products or services to customers.
-
-
+# QLS Assignment
 
 
 
